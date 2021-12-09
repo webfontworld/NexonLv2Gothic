@@ -37,7 +37,6 @@
          url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv2Gothic/NexonLv2GothicMedium.ttf') format("truetype");
     font-display: swap;
 }
-
 @font-face {
     font-family: 'NexonLv2Gothic';
     font-weight: 700;
